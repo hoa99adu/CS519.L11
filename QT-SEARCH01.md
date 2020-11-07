@@ -9,7 +9,7 @@ Công cụ tìm kiếm online có lẽ đã thành một phần không thể thi
 ## Sau đây là một số mẹo cho việc tìm kiếm thông tin trên Google.
 
 ### 1. Loại trừ bớt kết quả hiển thị
-### 2. Sử dụng <Number> .. <number> để tìm kiếm một dãy số.
+### 2. Tìm kiếm một dãy số.
 ### 3. Sử dụng (*) như một wildcard khi tìm kiếm chuỗi kí tự (string) đi kèm với một hoặc nhiều từ không rõ. 
 ### 4. Tìm kiếm kết quả trong trang web
 ### 5. Tìm kiếm theo loại tệp
