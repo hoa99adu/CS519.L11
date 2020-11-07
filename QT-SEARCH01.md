@@ -17,6 +17,9 @@ Công cụ tìm kiếm online có lẽ đã thành một phần không thể thi
 ### 6. Tìm kiếm từ khóa có trong URL
 ### 7. Tìm kiếm cụm từ chính xác
 Câu truy vấn trong dấu ngoặc kép thì việc tìm kiếm sẽ trả về chính xác cụm từ có trong dấu ngoặc kép.
+![image](https://user-images.githubusercontent.com/50982211/98443442-d4b0a480-213d-11eb-9301-68d1155c61e0.png)
+Kết quả tìm kiếm sẽ trả về chính xác các từ có trong "" so với tìm kiếm thông thường
+![image](https://user-images.githubusercontent.com/50982211/98443509-44bf2a80-213e-11eb-92d0-ff5a19a904d6.png)
 ### 8. Tìm kiếm từ khóa có trong tiêu đề
 ### 9. Tìm kiếm từ khóa có trong nội dung
 ### 10. Tìm kiếm bài viết nào đó trên 1 trang web
