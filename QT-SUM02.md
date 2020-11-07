@@ -21,16 +21,15 @@ Việc sử dụng 5W1H đối với 1 vấn đề, khía cạnh nào đó, là 
 5W1H có thể được áp dụng trong hầu hết các khía cạnh trong cuộc sống như học tập, giao tiếp, thuyết trình, lập kế hoạch kinh doanh / hoạt động, bán hàng, marketing, thiết kế …
 ## Writing 5-sentence paragraph
 Quy tắc viết đoạn văn 5 câu giúp có thể giúp tác giả tổ chức những suy nghĩ của họ, viết rõ ràng, và trình bày thông tin một cách dễ dàng cho người đọc để hiểu.
+
 Quy tắc:
 - Câu 1: Cho họ biết những gì bạn sẽ nói với họ.
--- Mùa hè đã đến.
 - Câu 2: Nói với họ biết.
--- Mùa hè hay còn có tên gọi khác là mùa hạ, kéo dài từ tháng 4 đến hết tháng 6.
 - Câu 3: Nói với họ biết.
--- Bầu trời mùa hạ trong vắt, không một gợn mây, với cái nắng choi chang, gay gắt.
 - Câu 4: Nói với họ biết.
--- Vào mùa này, chúng ta được nghỉ hè và được đi tắm biển hoặc về quê nghỉ hè rất vui.
 - Câu 5: Nói với họ biết những gì bạn nói với họ.
--- Nói chung là tôi yêu mùa hè.
+
+VD: Mùa hè đã đến. Mùa hè hay còn có tên gọi khác là mùa hạ, kéo dài từ tháng 4 đến hết tháng 6. Bầu trời mùa hạ trong vắt, không một gợn mây, với cái nắng choi chang, gay gắt. Vào mùa này, chúng ta được nghỉ hè và được đi tắm biển hoặc về quê nghỉ hè rất vui. Nói chung là tôi yêu mùa hè!
+
 
 
