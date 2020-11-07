@@ -14,5 +14,6 @@
 - Why? (Tại sao?),
 - How? (Như thế nào?),
 - Who? (Ai?).
-Công cụ 5W1H còn có thể được sử dụng hiệu quả trong nhiều trường hợp khác như: thuyết trình, nghiên cứu khoa học, tóm tắt một cuốn sách, ghi nhớ một sự kiện,…5W1H cũng có thể sử dụng chung với Bản đồ tư duy để giải quyết nhiều vấn đề khác nhau trong giảng dạy, học tập, kinh doanh, đàm phán,…
+
+Quy tắc 5W1H được sử dụng hiệu quả trong nhiều trường hợp khác như: thuyết trình, nghiên cứu khoa học, tóm tắt một cuốn sách, ghi nhớ một sự kiện,…5W1H cũng có thể sử dụng chung với Bản đồ tư duy để giải quyết nhiều vấn đề khác nhau trong giảng dạy, học tập, kinh doanh, đàm phán,…
 ## Writing 5-sentence paragraph
