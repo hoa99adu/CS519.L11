@@ -68,5 +68,5 @@ Bên cạnh Google chúng ta còn có nhiều công cụ tìm kiếm lớn mạn
 - Yahoo: có khá nhiều chức năng tốt như tìm kiếm theo từ khóa, hình ảnh… Bên cạnh đó, với công cụ bổ sung Yahoo Answer có thể giúp bạn truy cập và tìm hiểu được khá nhiều thông tin đa dạng.
 - Yandex: công cụ tìm kiếm online phổ biến nhất tại nước Nga
 - Baidu: công cụ tìm kiếm lớn nhất Trung Quốc
+
 .....
-- Baidu 
