@@ -9,12 +9,14 @@ Công cụ tìm kiếm online có lẽ đã thành một phần không thể thi
 ## Sau đây là một số mẹo cho việc tìm kiếm thông tin trên Google.
 
 ### 1. Loại trừ bớt kết quả hiển thị
+
 ### 2. Tìm kiếm một dãy số.
 ### 3. Sử dụng (*) như một wildcard khi tìm kiếm chuỗi kí tự (string) đi kèm với một hoặc nhiều từ không rõ. 
 ### 4. Tìm kiếm kết quả trong trang web
 ### 5. Tìm kiếm theo loại tệp
 ### 6. Tìm kiếm từ khóa có trong URL
 ### 7. Tìm kiếm cụm từ chính xác
+Câu truy vấn trong dấu ngoặc kép thì việc tìm kiếm sẽ trả về chính xác cụm từ có trong dấu ngoặc kép.
 ### 8. Tìm kiếm từ khóa có trong tiêu đề
 ### 9. Tìm kiếm từ khóa có trong nội dung
 ### 10. Tìm kiếm bài viết nào đó trên 1 trang web
