@@ -1,5 +1,10 @@
 # Design Thinking
 
+## Nhóm N016:
+- Nguyễn Văn Hòa – 17520494
+
+---
+
 # 1. Design Thinking là gì?
 Design thinking hay tư duy thiết kế là một mô hình được tạo ra để giúp con người thiết kế giải pháp cho một vấn đề nào đó. Nó cho phép người ta rà soát toàn diện vấn đề và tư duy thích hợp để tìm ra một giải pháp tối ưu.
 # 2. Tại sao Design Thinking quan trọng?
